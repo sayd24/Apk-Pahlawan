@@ -15,3 +15,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## 👥 Anggota Kelompok 2
+
+| Nama | NRP |
+|------| ------|
+| Naufal Ahimsa R | 5024241018 |
+| Hafidz Ulum Ramadhani | 5024241014 |
+| Muhammad Sayyid Tsabit | 5024241013 |
+| M Rasyha Syauqi Islam | 5024241066 |
+| Rozaq Nafi'ul Hafidz | 5024241072 |
