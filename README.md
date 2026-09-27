@@ -1,7 +1,5 @@
 # pahlawan_app
-
-A new Flutter project.
-
+Aplikasi yang memberikan penjelasan mengenai Pahlawan Nasional Indonesia
 ## Getting Started
 
 This project is a starting point for a Flutter application.
